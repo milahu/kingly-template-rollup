@@ -25,7 +25,9 @@ by calling the regular kingly API ... so its not a real compiler like svelte
 
 * kingly docs on [graph editing](https://brucou.github.io/documentation/v1/tooling/graph_editing.html)
 * browser based
-   * [https://github.com/jagenjo/litegraph.js](litegraph.js) (2000 stars, up to date)
+   * https://github.com/retejs/rete
+   * https://github.com/jerosoler/Drawflow
+   * https://github.com/topics/visual-programming?l=javascript
    * [zoomcharts graph editor](https://apps.zoomcharts.com/graph-editor/) (export to JSON)
    * [mxgraph grapheditor](https://jgraph.github.io/mxgraph/javascript/examples/grapheditor/www/index.html) based on [mxgraph](https://jgraph.github.io/mxgraph/javascript/index.html) (UML, export to XML)
 * desktop
