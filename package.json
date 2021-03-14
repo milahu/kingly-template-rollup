@@ -1,0 +1,22 @@
+{
+  "name": "kingly-template-rollup",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "start": "sirv public"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "*",
+    "@rollup/plugin-node-resolve": "*",
+    "kingly": "*",
+    "rollup": "*",
+    "rollup-plugin-css-only": "*",
+    "rollup-plugin-livereload": "*",
+    "rollup-plugin-terser": "*"
+  },
+  "dependencies": {
+    "sirv-cli": "*"
+  }
+}
